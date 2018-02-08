@@ -13,5 +13,5 @@ The transition to online grocery ordering is a growing trend. After using pyspar
 4. Inferential Statistics (Python 3).ipynb	
 5. Collaborative Filtering (Pyspark) - Data Wrangling.ipynb
 6. Collaborative Filtering (Python 3) - Machine Learning.ipynb
-7. Capstone Project 1 - Milestone Report.ipynb	
+7. Capstone Project 1 - Milestone Report (Python 3).ipynb	
 8. Capstone Project 1 - Final Submission (R).ipynb	
