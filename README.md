@@ -1,19 +1,17 @@
 # THE FUTURE OF FOOD SHOPPING
 Insights from the Instacart Online Grocery Shopping Dataset 2017
 
-1. INTRODUCTION
-1.1 Consumer Habits
-1.2 Online Grocery Shopping
-1.3 Instacart Service
-2. DATASET
-3. ANALYSIS
-3.1 Data Wrangling
-3.2 Exploratory Data Analysis
-4. MACHINE LEARNING
-4.1 Collaborative Filtering
-4.2 Gradient Boosting Decision Trees
-4.2.1 Feature Engineering
-4.2.2 Tuning parameters
-5. RESULTS & DISCUSSIONS
-6. CONCLUSION
+**Summary**
 
+The transition to online grocery ordering is a growing trend. After using pyspark for data preparation and employing machine learning algorithms,  I´ve managed to achieve a F1 score of 0.3804. In conclusion, the prediction problem hasn't yet achieved a performance to make a broader impact. 
+
+**These are the files created in order:**
+
+1. Data Wrangling (Python 3).ipynb
+2. Data Storytelling (Pyspark) - Data Wrangling.ipynb
+3. Data Storytelling (Python 3) - SNA.ipynb
+4. Inferential Statistics (Python 3).ipynb	
+5. Collaborative Filtering (Pyspark) - Data Wrangling.ipynb
+6. Collaborative Filtering (Python 3) - Machine Learning.ipynb
+7. Capstone Project 1 - Milestone Report.ipynb	
+8. Capstone Project 1 - Final Submission (R).ipynb	
